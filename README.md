@@ -1,8 +1,5 @@
 # hello-world
-Young genius, NEET 🤷‍♂️😜✔
-
+Just a student
 I  speak french and ... (secret)
-I learn Japanese, English, Arabic and Spanish.
-Skill: HTML(good), CSS(good), JScript(minimum), Python(minimum), SQL(insufficient), PHP(insufficient).
-
-I want to create a software in c++
+Skill: HTML/CSS, C
+You don't need to know more
